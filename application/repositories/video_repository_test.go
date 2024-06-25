@@ -1,8 +1,8 @@
 package repositories_test
 
 import (
-  "encoder/domain"
-  "encoder/framework/database"
+  "github.com/clebersimm/encoder/domain"
+  "github.com/clebersimm/encoder/framework/database"
   uuid "github.com/satori/go.uuid"
   "testing"
   "time"
